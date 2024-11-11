@@ -1,7 +1,4 @@
 <h1 align="center"> Application Form </h1>
-<p align="center"> 
-  <img src="public/animal.png" alt="Animal.png"  height="60px">
-</p>
 
 ## :bulb: Purpose
 The objective of this project was to create an intuitive and user-friendly application form that would integrate seamlessly with the company's existing website. Using my skills in HTML, CSS, and JavaScript, I designed and implemented the form with a focus on creating a visually appealing, interactive, and accessible user interface.
